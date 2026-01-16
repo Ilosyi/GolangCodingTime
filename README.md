@@ -11,7 +11,7 @@
 
 ## 文章目录
 
-在线阅读：[Golang 编程时光](https://go.sixue.work/)            重试  错误原因重试  错误原因
+在线阅读：[Golang 编程时光](https://go.sixue.work/)
 - **第一章：基础知识**
    * [1.1 一文搞定开发环境的搭建](https://github.com/eddy5885/GolangCodingTime/blob/master/source/c01/c01_01.md)重试  错误原因
    * [1.2 五种变量创建的方法](https://github.com/eddy5885/GolangCodingTime/blob/master/source/c01/c01_02.md)
