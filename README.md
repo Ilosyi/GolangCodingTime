@@ -2,8 +2,8 @@
 
 <p align="center">
     <img src='https://img.shields.io/badge/language-Golang-blue.svg' alt="Build Status">
-    <img src='https://img.shields.io/badge/framwork-Sphinx-green.svg'>
-  	<a href='https://www.zhihu.com/people/wongbingming'><img src='https://img.shields.io/badge/dynamic/json?color=0084ff&logo=zhihu&label=%E7%8E%8B%E7%82%B3%E6%98%8E&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dwongbingming'></a>
+    <img src='https://img.shields.io/badge/framwork-Sphinx-green.svg'>  
+  	<a href='https://www.zhihu.com/people/wongbingming'><img src='https://img.shields.io/badge/dynamic/json?color=0084ff&logo=zhihu&label=%E7%8E%8B%E7%82%B3%E6%98%8E&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dwongbingming'></a>  
     <a href='https://juejin.im/user/5b08d982f265da0db3502c55'><img src='https://img.shields.io/badge/掘金-2481-blue'></a>
     <a href='http://image.iswbm.com/20200607114246.png'><img src='http://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-30k+-brightgreen'></a>
 </p>
@@ -11,7 +11,7 @@
 
 ## 文章目录
 
-在线阅读：[Golang 编程时光](https://github.com/eddy5885/GolangCodingTime/blob/master/source/)
+在线阅读：[Golang 编程时光](go.sixue.work)  
 - **第一章：基础知识**
    * [1.1 一文搞定开发环境的搭建](https://github.com/eddy5885/GolangCodingTime/blob/master/source/c01/c01_01.md)
    * [1.2 五种变量创建的方法](https://github.com/eddy5885/GolangCodingTime/blob/master/source/c01/c01_02.md)
